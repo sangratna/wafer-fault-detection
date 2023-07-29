@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+sklearn
+database-connect==0.1.66
+aiofiles
+dill==0.3.5.1
+dnspython==2.2.1
+evedently==0.1.58.dev0
+Flask==2.2.3
+httptools==0.5.0
+imblearn==0.0
+jinja2==3.1.2
+pymongo==4.2.0
+xgboost==1.6.2
